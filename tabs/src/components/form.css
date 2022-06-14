@@ -1,0 +1,11 @@
+#form-container {
+    display: flex;
+    justify-content: center;
+}
+
+#form {
+    border: 1px solid;
+    padding: 20px;
+    margin: 100px 0;
+    width: 70%;
+}
